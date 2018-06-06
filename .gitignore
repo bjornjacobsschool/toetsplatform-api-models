@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/java,macos,windows,eclipse,intellij,visualstudiocode
 
+*.iml
+
 ### Eclipse ###
 
 .metadata
