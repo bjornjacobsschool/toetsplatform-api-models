@@ -18,12 +18,10 @@ import java.util.UUID;
 public class SamengesteldTentamenDto {
     private UUID id;
     private String naam;
+    private String vak;
     private String beschrijving;
     private String toegestaandeHulpmiddelen;
     private String tijdsduur;
-    private boolean isVerzegeld;
-    private String sleutel;
-    private DateTime startdatum;
 
     private List<VragenbankVraagDto> vragen;
     private VersieDto versie;

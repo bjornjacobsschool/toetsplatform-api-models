@@ -19,8 +19,8 @@ public class VragenbankVraagDto {
     private String vraagtype;
     private String thema;
     private int punten;
-    private String correcteAntwoorden;
-    private String mogelijkeAntwoorden;
+    private String nakijkModel;
+    private String vraagData;
     private String nakijkInstructies;
 
     private VersieDto versie;
