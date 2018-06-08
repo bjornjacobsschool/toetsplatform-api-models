@@ -13,7 +13,7 @@ import org.joda.time.DateTime;
 @AllArgsConstructor
 @EqualsAndHashCode
 public class VersieDto {
-    private DateTime datum;
+    private long datum;
     private int nummer;
     private String omschrijving;
 }
