@@ -15,7 +15,6 @@ import java.util.UUID;
 @EqualsAndHashCode
 public class NagekekenVraagDto {
     private UUID id;
-    private int punten;
     private int behaaldePunten;
     private String nakijkComment;
 
