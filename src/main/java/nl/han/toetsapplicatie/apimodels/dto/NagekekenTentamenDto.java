@@ -19,5 +19,6 @@ public class NagekekenTentamenDto {
     private int cijfer;
 
     private VersieDto versie;
+    private StudentDto student;
     private List<NagekekenVraagDto> vragen;
 }
