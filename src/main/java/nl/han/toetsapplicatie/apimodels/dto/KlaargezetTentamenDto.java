@@ -23,6 +23,6 @@ public class KlaargezetTentamenDto {
     private long startdatum;
     private String sleutel;
 
-    private List<SamengesteldTentamenVraagDto> vragen;
+    private String vragen;
     private VersieDto versie;
 }
