@@ -20,6 +20,7 @@ public class SamengesteldTentamenVraagDto {
     private String thema;
     private int punten;
     private String mogelijkeAntwoorden;
+    private String vraagData;
 
     private VersieDto versie;
 }
