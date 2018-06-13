@@ -21,7 +21,6 @@ public class KlaargezetTentamenDto {
     private String toegestaandeHulpmiddelen;
     private String tijdsduur;
     private long startdatum;
-    private String sleutel;
 
     private String vragen;
     private VersieDto versie;
