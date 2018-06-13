@@ -21,6 +21,7 @@ public class SamengesteldTentamenDto {
     private String beschrijving;
     private String toegestaandeHulpmiddelen;
     private String tijdsduur;
+    private String nakijkmodel;
 
     private List<VragenbankVraagDto> vragen;
     private VersieDto versie;
